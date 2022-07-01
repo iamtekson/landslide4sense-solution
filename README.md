@@ -1,5 +1,7 @@
 # landslide4sense-solution
 
+### Video tutorial for this repo is available on my YouTube Channel here: https://youtu.be/1kl5RNPkz-g
+
 ## Challenge Description
 
 The aim of the competition is to promote innovative algorithms for automatic landslide detection using remote sensing images around the globe, and to provide objective and fair comparisons among different methods. The competition ranking is based on a quantitative accuracy metric (F1 score) computed with respect to undisclosed test samples. Participants will be given a limited time to submit their landslide detection results after the competition starts. The winners will be selected from the top three solutions in the competition ranking.
