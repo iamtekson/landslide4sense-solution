@@ -1,6 +1,6 @@
 # landslide4sense-solution
 
-### Video tutorial for this repo is available on my YouTube Channel here: https://youtu.be/1kl5RNPkz-g
+_Video tutorial: https://youtu.be/1kl5RNPkz-g_
 
 ## Challenge Description
 
